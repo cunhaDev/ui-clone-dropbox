@@ -12,7 +12,7 @@ export default createGlobalStyle `
   font-family:  Roboto, sans-serif;
 }
 
-:root{
+:root {
   --color-primary: #0d2f81;
   --color-secondary: #ffe7aa;
   --color-tertiary: #fff;
